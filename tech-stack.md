@@ -28,3 +28,10 @@ References:
 - Homepage: https://metamask.io/
 - Developer documentation: https://docs.metamask.io/
 
+## Wagmi
+
+> React Hooks for Ethereum
+
+References:
+
+- Homepage: https://wagmi.sh/
