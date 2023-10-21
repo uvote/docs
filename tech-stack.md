@@ -39,3 +39,5 @@ References:
 ## Inconsolata font
 
 - Homepage: https://levien.com/type/myfonts/inconsolata.html
+- Official release on Google Fonts: https://fonts.google.com/specimen/Inconsolata
+
