@@ -35,3 +35,7 @@ References:
 References:
 
 - Homepage: https://wagmi.sh/
+
+## Inconsolata font
+
+- Homepage: https://levien.com/type/myfonts/inconsolata.html
