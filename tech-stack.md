@@ -2,6 +2,11 @@
 
 - [Git](#git)
 - [Markdown](#markdown)
+- [MetaMask](#metamask)
+- [Wagmi](#wagmi)
+- [Inconsolata font](#inconsolata-font)
+- [AWS CLI](#aws-cli)
+- [Foundry](#foundry)
 
 ## Git
 
@@ -41,3 +46,15 @@ References:
 - Homepage: https://levien.com/type/myfonts/inconsolata.html
 - Official release on Google Fonts: https://fonts.google.com/specimen/Inconsolata
 
+## AWS CLI
+
+> AWS Command Line Interface
+
+- Homepage: https://aws.amazon.com/cli/
+
+## Foundry
+
+> Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+
+- GitHub: https://github.com/foundry-rs
+- Book: https://book.getfoundry.sh/
